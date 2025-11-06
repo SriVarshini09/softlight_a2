@@ -1,0 +1,34 @@
+{
+  "app": "trello",
+  "task": "Open My Trello board and click the Share button",
+  "steps": [
+    {
+      "index": 1,
+      "description": "Click on My Trello board to open it",
+      "action": "click",
+      "selector": {
+        "text": "My Trello board"
+      },
+      "input": "",
+      "url": "https://trello.com/b/lvdxKkua/my-trello-board",
+      "has_modal": true,
+      "has_overlay": true,
+      "screenshot": "dataset\\trello\\open-my-trello-board-and-click-the-share-button\\step-01-click-on-my-trello-board-to-open-it.png",
+      "timestamp": 1762396678.4122436
+    },
+    {
+      "index": 2,
+      "description": "Click the Share button",
+      "action": "click",
+      "selector": {
+        "text": "Share"
+      },
+      "input": "",
+      "url": "https://trello.com/b/lvdxKkua/my-trello-board",
+      "has_modal": true,
+      "has_overlay": true,
+      "screenshot": "dataset\\trello\\open-my-trello-board-and-click-the-share-button\\step-02-click-the-share-button.png",
+      "timestamp": 1762396682.5792103
+    }
+  ]
+}

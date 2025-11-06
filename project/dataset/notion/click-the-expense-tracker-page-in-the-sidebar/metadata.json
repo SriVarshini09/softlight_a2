@@ -1,0 +1,20 @@
+{
+  "app": "notion",
+  "task": "Click the Expense Tracker page in the sidebar",
+  "steps": [
+    {
+      "index": 1,
+      "description": "Click on the Expense Tracker page in the sidebar",
+      "action": "click",
+      "selector": {
+        "text": "Expense Tracker"
+      },
+      "input": "",
+      "url": "https://www.notion.so/Getting-Started-2a3c154ef33a8023be38e70ffb5f6baa",
+      "has_modal": false,
+      "has_overlay": true,
+      "screenshot": "dataset\\notion\\click-the-expense-tracker-page-in-the-sidebar\\step-01-click-on-the-expense-tracker-page-in-the-sidebar.png",
+      "timestamp": 1762397639.307825
+    }
+  ]
+}

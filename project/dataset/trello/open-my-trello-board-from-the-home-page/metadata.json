@@ -1,0 +1,20 @@
+{
+  "app": "trello",
+  "task": "Open My Trello board from the home page",
+  "steps": [
+    {
+      "index": 1,
+      "description": "Click on the board name to open it",
+      "action": "click",
+      "selector": {
+        "text": "My Trello board"
+      },
+      "input": "",
+      "url": "https://trello.com/b/lvdxKkua/my-trello-board",
+      "has_modal": true,
+      "has_overlay": true,
+      "screenshot": "dataset\\trello\\open-my-trello-board-from-the-home-page\\step-01-click-on-the-board-name-to-open-it.png",
+      "timestamp": 1762396061.449273
+    }
+  ]
+}

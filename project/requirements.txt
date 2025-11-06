@@ -1,0 +1,10 @@
+playwright==1.47.0
+python-dotenv==1.0.1
+pillow==10.4.0
+pydantic==2.9.2
+anthropic==0.72.0
+openai==2.7.1
+orjson==3.10.7
+uvloop==0.20.0; platform_system != 'Windows'
+loguru==0.7.2
+python-slugify==8.0.4

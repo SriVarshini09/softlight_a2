@@ -1,0 +1,20 @@
+{
+  "app": "notion",
+  "task": "Click Settings in the sidebar menu",
+  "steps": [
+    {
+      "index": 1,
+      "description": "Click on the Settings button in the sidebar menu",
+      "action": "click",
+      "selector": {
+        "text": "Settings"
+      },
+      "input": "",
+      "url": "https://www.notion.so/Getting-Started-2a3c154ef33a8023be38e70ffb5f6baa",
+      "has_modal": true,
+      "has_overlay": true,
+      "screenshot": "dataset\\notion\\click-settings-in-the-sidebar-menu\\step-01-click-on-the-settings-button-in-the-sidebar-menu.png",
+      "timestamp": 1762397781.0081787
+    }
+  ]
+}

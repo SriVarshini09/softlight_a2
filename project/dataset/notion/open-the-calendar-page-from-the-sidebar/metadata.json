@@ -1,0 +1,20 @@
+{
+  "app": "notion",
+  "task": "Open the Calendar page from the sidebar",
+  "steps": [
+    {
+      "index": 1,
+      "description": "Click on the Calendar page in the sidebar",
+      "action": "click",
+      "selector": {
+        "text": "Calendar"
+      },
+      "input": "",
+      "url": "https://www.notion.so/Getting-Started-2a3c154ef33a8023be38e70ffb5f6baa",
+      "has_modal": false,
+      "has_overlay": true,
+      "screenshot": "dataset\\notion\\open-the-calendar-page-from-the-sidebar\\step-01-click-on-the-calendar-page-in-the-sidebar.png",
+      "timestamp": 1762397509.054843
+    }
+  ]
+}

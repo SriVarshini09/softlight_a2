@@ -1,0 +1,20 @@
+{
+  "app": "notion",
+  "task": "Open the Budget Template page from the sidebar",
+  "steps": [
+    {
+      "index": 1,
+      "description": "Click on the Budget Template page in the sidebar",
+      "action": "click",
+      "selector": {
+        "text": "Budget Template"
+      },
+      "input": "",
+      "url": "https://www.notion.so/Getting-Started-2a3c154ef33a8023be38e70ffb5f6baa",
+      "has_modal": false,
+      "has_overlay": true,
+      "screenshot": "dataset\\notion\\open-the-budget-template-page-from-the-sidebar\\step-01-click-on-the-budget-template-page-in-the-sidebar.png",
+      "timestamp": 1762396975.140357
+    }
+  ]
+}

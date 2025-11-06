@@ -1,0 +1,34 @@
+{
+  "app": "trello",
+  "task": "Open My Trello board and click Add a card in the This Week list",
+  "steps": [
+    {
+      "index": 1,
+      "description": "Open My Trello board",
+      "action": "click",
+      "selector": {
+        "text": "My Trello board"
+      },
+      "input": "",
+      "url": "https://trello.com/b/lvdxKkua/my-trello-board",
+      "has_modal": true,
+      "has_overlay": true,
+      "screenshot": "dataset\\trello\\open-my-trello-board-and-click-add-a-card-in-the-this-week-list\\step-01-open-my-trello-board.png",
+      "timestamp": 1762396177.4946284
+    },
+    {
+      "index": 2,
+      "description": "Click Add a card in the This Week list",
+      "action": "click",
+      "selector": {
+        "text": "Add a card"
+      },
+      "input": "",
+      "url": "https://trello.com/b/lvdxKkua/my-trello-board",
+      "has_modal": true,
+      "has_overlay": true,
+      "screenshot": "dataset\\trello\\open-my-trello-board-and-click-add-a-card-in-the-this-week-list\\step-02-click-add-a-card-in-the-this-week-list.png",
+      "timestamp": 1762396186.160998
+    }
+  ]
+}

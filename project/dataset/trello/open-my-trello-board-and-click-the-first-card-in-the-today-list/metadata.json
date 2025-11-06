@@ -1,0 +1,34 @@
+{
+  "app": "trello",
+  "task": "Open My Trello board and click the first card in the Today list",
+  "steps": [
+    {
+      "index": 1,
+      "description": "Click on My Trello board to open it",
+      "action": "click",
+      "selector": {
+        "text": "My Trello board"
+      },
+      "input": "",
+      "url": "https://trello.com/b/lvdxKkua/my-trello-board",
+      "has_modal": true,
+      "has_overlay": true,
+      "screenshot": "dataset\\trello\\open-my-trello-board-and-click-the-first-card-in-the-today-list\\step-01-click-on-my-trello-board-to-open-it.png",
+      "timestamp": 1762396512.1546094
+    },
+    {
+      "index": 2,
+      "description": "Click on the first card in the Today list",
+      "action": "click",
+      "selector": {
+        "text": "First Card Name"
+      },
+      "input": "",
+      "url": "https://trello.com/b/lvdxKkua/my-trello-board",
+      "has_modal": true,
+      "has_overlay": true,
+      "screenshot": "dataset\\trello\\open-my-trello-board-and-click-the-first-card-in-the-today-list\\step-02-click-on-the-first-card-in-the-today-list.png",
+      "timestamp": 1762396516.0784097
+    }
+  ]
+}
